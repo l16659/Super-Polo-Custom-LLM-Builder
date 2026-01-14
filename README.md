@@ -1,10 +1,11 @@
 # Polo-Super Custom LLM Builder
 # Overview
 Polo-Super is a project designed to let users build personalized large language models based on open-source models downloaded from Hugging Face, running everything locally for privacy and speed. The core flow: Grab a pre-trained open-source model from Hugging Face → Deploy it locally → Fine-tune it using your own chat history combined with some public open datasets.
-The main goal is to make the final model imitate my real chatting style as closely as possible — the tone, the way I talk, the habits, the vibe — so when you chat with it, it feels like talking to the actual me (@LeePolo7), natural, familiar, with personality.
+The main goal is to make the final model imitate my real chatting style as closely as possible — the tone, the way I talk, the habits, the vibe — so when you chat with it, it feels like talking to the actual me, natural, familiar, with personality.
 Everything runs completely locally, no cloud needed, works on consumer hardware.
-Polo-Super 是一个项目，目的是让用户能够基于 Hugging Face 下载的开源大模型，在本地部署并进行个性化定制。核心流程是：从 Hugging Face 获取预训练开源模型 → 本地运行以保证隐私和速度 → 结合用户的聊天记录以及部分公开开源数据集，对模型进行微调。
-最终得到的大模型，主要目的是尽可能模仿我本人（@LeePolo7）与人聊天的风格、语气、习惯和表达方式，让它在日常对话中听起来像真人一样自然、熟悉、有个性。
+
+Polo-Super目的是让用户能够基于 Hugging Face 下载的开源大模型，在本地部署并进行个性化定制。核心流程是：从 Hugging Face 获取预训练开源模型 → 本地运行以保证隐私和速度 → 结合用户的聊天记录以及部分公开开源数据集，对模型进行微调。
+最终得到的大模型，主要目的是尽可能模仿我本人与人聊天的风格、语气、习惯和表达方式，让它在日常对话中听起来像真人一样自然、熟悉、有个性。
 整个过程全部在本地完成，不依赖任何云服务，使用消费级硬件即可运行。
 
 # Detailed Guide
